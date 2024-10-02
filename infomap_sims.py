@@ -128,8 +128,8 @@ def get_module_counts(module_list, true_labels):
 
 
 if __name__ == "__main__":
-    nruns = 1
-    size_ratio = 8
+    nruns = 100
+    size_ratio = 2
 
     mat, fcpriors, spatialpriors, names = load_priors(size_ratio=size_ratio)
 
