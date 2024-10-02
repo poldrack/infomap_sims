@@ -130,7 +130,7 @@ def get_module_counts(module_list, true_labels):
 if __name__ == "__main__":
     nruns = 100
     size_ratio = 2
-
+    print('running simulations')
     mat, fcpriors, spatialpriors, names = load_priors(size_ratio=size_ratio)
 
     # we just use functional connectivity priors from WashU team
