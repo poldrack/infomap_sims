@@ -13,14 +13,14 @@
 # ---
 
 # %%
+import argparse
 import scipy.io
 import numpy as np
 import pandas as pd
 from infomap import Infomap
 from sklearn.metrics import adjusted_rand_score, confusion_matrix
 import networkx as nx
-from tqdm import tqdm
-from pyinstrument import Profiler
+import os
 
 # utility functions
 def r_to_z(r):
@@ -128,13 +128,18 @@ def get_module_counts(module_list, true_labels):
     return counter
 
 
-def run_simulation(noise_level):
-    pass
-
-
 if __name__ == "__main__":
-    nruns = 100
-    size_ratio = 2
+    parser = argparse.ArgumentParser(description="Run Infomap simulations.")
+    parser.add_argument("--nruns", type=int, default=100, help="Number of runs for the simulation")
+    parser.add_argument("--size_ratio", type=int, default=2, help="Size ratio for the priors")
+    parser.add_argument('--noise_level', type=float, default=0.1, help='Noise level for the simulation')
+    parser.add_argument('--density', type=float, default=0.05, help='Density of the graph')
+    parser.add_argument('--label', type=str, default=None, help='Label for the simulation')
+    args = parser.parse_args()
+
+    nruns = args.nruns
+    size_ratio = args.size_ratio
+
     print("running simulations")
     mat, fcpriors, spatialpriors, names = load_priors(size_ratio=size_ratio)
 
@@ -146,23 +151,17 @@ if __name__ == "__main__":
 
     results = []
 
-    for noise_level in tqdm(np.arange(0.1, 0.55, 0.1)):
-        for run in range(nruns):
-            with Profiler(interval=0.1) as profiler:
-                matching_matrix_noisy = create_noisy_matching_matrix(
-                    matching_matrix_z, noise_level=noise_level
-                )
-                G = matching_matrix_to_graph(matching_matrix_noisy, density=0.05)
-                module_list, module_list_relabeled = run_infomap(G, fcpriors, verbose=False)
-                ari = adjusted_rand_score(maxprob_fc, module_list)
-                results.append(
-                    [noise_level, ari]
-                    + list(get_module_counts(module_list_relabeled, maxprob_fc).values())
-                )
-                profiler.print()
-                profiler.open_in_browser()
-                asdlfkj
-            print(f"Noise level: {noise_level}, ARI: {ari}")
+    matching_matrix_noisy = create_noisy_matching_matrix(
+        matching_matrix_z, noise_level=args.noise_level
+    )
+    G = matching_matrix_to_graph(matching_matrix_noisy, density=0.05)
+    module_list, module_list_relabeled = run_infomap(G, fcpriors, verbose=False)
+    ari = adjusted_rand_score(maxprob_fc, module_list)
+    results.append(
+        [args.noise_level, ari]
+        + list(get_module_counts(module_list_relabeled, maxprob_fc).values())
+    )
+
 
     results_df = pd.DataFrame(
         results,
@@ -172,4 +171,6 @@ if __name__ == "__main__":
             for i in list(get_module_counts(module_list_relabeled, maxprob_fc).keys())
         ],
     )
-    results_df.to_csv("infomap_simulation_results.csv")
+    if not os.path.exists("sim_results"):
+        os.makedirs("sim_results")
+    results_df.to_csv(f"sim_results/infomap_sim_{args.noise_level}_{args.label}.csv")
