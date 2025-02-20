@@ -19,7 +19,8 @@ import pandas as pd
 from infomap import Infomap
 from sklearn.metrics import adjusted_rand_score, confusion_matrix
 import networkx as nx
-
+from tqdm import tqdm
+from pyinstrument import Profiler
 
 # utility functions
 def r_to_z(r):
@@ -127,10 +128,14 @@ def get_module_counts(module_list, true_labels):
     return counter
 
 
+def run_simulation(noise_level):
+    pass
+
+
 if __name__ == "__main__":
     nruns = 100
     size_ratio = 2
-    print('running simulations')
+    print("running simulations")
     mat, fcpriors, spatialpriors, names = load_priors(size_ratio=size_ratio)
 
     # we just use functional connectivity priors from WashU team
@@ -141,18 +146,22 @@ if __name__ == "__main__":
 
     results = []
 
-    for noise_level in np.arange(0.05, 0.4, 0.1):
+    for noise_level in tqdm(np.arange(0.1, 0.55, 0.1)):
         for run in range(nruns):
-            matching_matrix_noisy = create_noisy_matching_matrix(
-                matching_matrix_z, noise_level=noise_level
-            )
-            G = matching_matrix_to_graph(matching_matrix_noisy, density=0.05)
-            module_list, module_list_relabeled = run_infomap(G, fcpriors, verbose=False)
-            ari = adjusted_rand_score(maxprob_fc, module_list)
-            results.append(
-                [noise_level, ari]
-                + list(get_module_counts(module_list_relabeled, maxprob_fc).values())
-            )
+            with Profiler(interval=0.1) as profiler:
+                matching_matrix_noisy = create_noisy_matching_matrix(
+                    matching_matrix_z, noise_level=noise_level
+                )
+                G = matching_matrix_to_graph(matching_matrix_noisy, density=0.05)
+                module_list, module_list_relabeled = run_infomap(G, fcpriors, verbose=False)
+                ari = adjusted_rand_score(maxprob_fc, module_list)
+                results.append(
+                    [noise_level, ari]
+                    + list(get_module_counts(module_list_relabeled, maxprob_fc).values())
+                )
+                profiler.print()
+                profiler.open_in_browser()
+                asdlfkj
             print(f"Noise level: {noise_level}, ARI: {ari}")
 
     results_df = pd.DataFrame(
@@ -163,4 +172,4 @@ if __name__ == "__main__":
             for i in list(get_module_counts(module_list_relabeled, maxprob_fc).keys())
         ],
     )
-    results_df.to_csv("results.csv")
+    results_df.to_csv("infomap_simulation_results.csv")
