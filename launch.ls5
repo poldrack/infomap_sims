@@ -1,0 +1,20 @@
+#!/bin/bash
+
+####
+#### Do not look at this file:
+#### it is converted to an actual job script
+#### through the makefile.
+####
+
+#SBATCH   -p normal
+#SBATCH   -J pylaunchertest
+#SBATCH   -o pylaunchertest.o%j
+#SBATCH --nodes=10              # Number of nodes
+#SBATCH --ntasks-per-node=4     # CPUs per node
+#SBATCH   -t 16:00:00
+#SBATCH -A DBS23003
+
+module load python3
+module load pylauncher
+conda activate py311
+python run_ls6_job.py
