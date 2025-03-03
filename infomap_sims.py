@@ -180,6 +180,7 @@ if __name__ == "__main__":
             for i in list(get_module_counts(module_list_relabeled, maxprob_fc).keys())
         ],
     )
-    if not os.path.exists("sim_results"):
-        os.makedirs("sim_results")
-    results_df.to_csv(filename)
+    outdir = f'sim_results_sizeratio-{size_ratio:d}'
+    if not os.path.exists(outdir):
+        os.makedirs(outdir)
+    results_df.to_csv(f"{outdir}/infomap_sim_{args.noise_level}_{args.label}.csv")
