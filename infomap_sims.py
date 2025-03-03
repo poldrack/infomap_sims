@@ -14,13 +14,9 @@
 
 # %%
 import argparse
-import scipy.io
-import numpy as np
-import pandas as pd
-from infomap import Infomap
-from sklearn.metrics import adjusted_rand_score, confusion_matrix
-import networkx as nx
 import os
+import sys
+
 
 # utility functions
 def r_to_z(r):
@@ -137,6 +133,19 @@ if __name__ == "__main__":
     parser.add_argument('--label', type=str, default=None, help='Label for the simulation')
     args = parser.parse_args()
 
+    filename = f"sim_results/infomap_sim_{args.noise_level:02f}_{args.label}.csv"
+    if os.path.exists(filename):
+        print('file exists, exiting')
+        sys.exit()
+
+    # put imports here to allow quick exit if file exists
+    import scipy.io
+    import numpy as np
+    import pandas as pd
+    from infomap import Infomap
+    from sklearn.metrics import adjusted_rand_score, confusion_matrix
+    import networkx as nx
+
     nruns = args.nruns
     size_ratio = args.size_ratio
 
@@ -173,4 +182,4 @@ if __name__ == "__main__":
     )
     if not os.path.exists("sim_results"):
         os.makedirs("sim_results")
-    results_df.to_csv(f"sim_results/infomap_sim_{args.noise_level}_{args.label}.csv")
+    results_df.to_csv(filename)
