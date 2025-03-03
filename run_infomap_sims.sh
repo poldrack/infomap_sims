@@ -1,4 +1,3 @@
-#!/bin/bash
 python infomap_sims.py --noise_level 0.1 --label b6a712da
 python infomap_sims.py --noise_level 0.1 --label 6653597a
 python infomap_sims.py --noise_level 0.1 --label 3c2d1283
