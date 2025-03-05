@@ -196,7 +196,12 @@ if __name__ == "__main__":
             for i in list(get_module_counts(module_list_relabeled, maxprob_fc).keys())
         ],
     )
-    outdir = f'sim_results_sizelimit-{args.sizelimit:d}'
+    if args.normalize:
+        normalize_str = '_normalized'
+    else:
+        normalize_str = ''
+    outdir = f'sim_results_sizelimit-{args.sizelimit:d}{normalize_str}'
     if not os.path.exists(outdir):
         os.makedirs(outdir)
-    results_df.to_csv(f"{outdir}/infomap_sim_{args.noise_level}_{args.label}.csv")
+
+    results_df.to_csv(f"{outdir}/infomap_sim_{args.noise_level}_{args.label}{normalize_str}.csv")
