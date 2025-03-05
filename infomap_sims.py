@@ -38,11 +38,12 @@ def z_to_r(z):
 
 
 # functions for simulation
-def load_priors(infile="priors.mat", size_ratio=2):
+def load_priors(infile="priors.mat", sizelimit=None, size_ratio=2):
     mat = scipy.io.loadmat(infile)
 
     # limit size for computational reasons - only use 1/size_ratio of data
-    sizelimit = int(mat["Priors"][0][0][0].shape[0] / size_ratio)
+    if sizelimit is None:
+        sizelimit = int(mat["Priors"][0][0][0].shape[0] / size_ratio)
 
     fcpriors = mat["Priors"][0][0][0][:sizelimit]
     spatialpriors = mat["Priors"][0][0][1][:sizelimit]
@@ -127,7 +128,8 @@ def get_module_counts(module_list, true_labels):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run Infomap simulations.")
     parser.add_argument("--nruns", type=int, default=100, help="Number of runs for the simulation")
-    parser.add_argument("--size_ratio", type=int, default=2, help="Size ratio for the priors")
+#    parser.add_argument("--size_ratio", type=int, default=2, help="Size ratio for the priors")
+    parser.add_argument("--sizelimit", type=int, default=29696, help="Size ratio for the priors")
     parser.add_argument('--noise_level', type=float, default=0.1, help='Noise level for the simulation')
     parser.add_argument('--density', type=float, default=0.05, help='Density of the graph')
     parser.add_argument('--label', type=str, default=None, help='Label for the simulation')
@@ -147,10 +149,10 @@ if __name__ == "__main__":
     import networkx as nx
 
     nruns = args.nruns
-    size_ratio = args.size_ratio
+    #size_ratio = args.size_ratio
 
     print("running simulations")
-    mat, fcpriors, spatialpriors, names = load_priors(size_ratio=size_ratio)
+    mat, fcpriors, spatialpriors, names = load_priors(sizelimit=args.sizelimit)
 
     # we just use functional connectivity priors from WashU team
     # to create ground truth for this simulation
@@ -180,7 +182,7 @@ if __name__ == "__main__":
             for i in list(get_module_counts(module_list_relabeled, maxprob_fc).keys())
         ],
     )
-    outdir = f'sim_results_sizeratio-{size_ratio:d}'
+    outdir = f'sim_results_sizelimit-{args.sizelimit:d}'
     if not os.path.exists(outdir):
         os.makedirs(outdir)
     results_df.to_csv(f"{outdir}/infomap_sim_{args.noise_level}_{args.label}.csv")

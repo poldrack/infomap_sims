@@ -1,901 +1,901 @@
 #!/bin/bash
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label b6a712da
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 6653597a
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 3c2d1283
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 8ecc9a71
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 67003c36
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label d9f0556e
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 24f1f242
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 29c62df5
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label efc46fe3
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 7e64b991
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label c35358ba
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 7691a285
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 8308fd60
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 89afc245
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label e5eea0ef
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label e7e0c05a
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 75048273
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label e93c5715
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label a191cd73
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 3cd3bc12
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 4dbd76fb
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 11afaec1
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 7ef7cf61
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label db1a84c7
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 9f1f0691
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label a25ab8c0
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 1073db33
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label fa6d98c7
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 9ee96332
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label fe3d934f
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 8e7fc8b0
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label b7988dc8
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 15279bac
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label d1c9cab2
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label ee5182e4
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label ada588cc
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 8f09b6e5
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 873b2924
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 4e88abbd
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 033618ea
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 43b4b22e
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 7b85e5c2
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label df65a511
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 7c5e1d63
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 6cee0da2
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label d50a293e
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 805b2bd1
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 59dab4ae
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label ec1be21c
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 02a1d61f
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label d0547ba3
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 7b7925e3
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label f517fd03
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 3a26ff0b
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 83827dba
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label e86ae265
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 039d89c0
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 4d3cf95e
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 0030f5a9
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 5392ebcf
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 4d6d48ab
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 45077b5a
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 5a4b4c76
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label d464203c
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label fefff1af
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label a75ffbe0
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 1c8d8af6
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 36d19545
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label b9d0a01f
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label eb3bec4f
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 3266428f
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 54babddc
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label bb079c0a
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label cf62fa76
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 3993af18
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label ad3f1f95
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 13c063c3
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label fd5373b8
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 5be800b3
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label fc9a2f88
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 90277007
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 80cbdb96
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 8b779ab4
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label b6a1d168
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 8d73cacb
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 333a94f5
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 7e54666e
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 51055f70
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label ce8f85e1
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 26e13bd9
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 1d34cbee
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label bc6bed34
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 06f1be18
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 5d3a536c
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 9a1d0dbc
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label b586764f
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 3a202001
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 20a7dcec
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label ffde3384
-python infomap_sims.py --size_ratio 1 --noise_level 0.1 --label 7bf81f20
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 923a726a
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label fa33f051
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label f72e2193
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label bd326169
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 3ab89fa4
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 26c469d0
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label c1777c37
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 306111c7
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 756bcea2
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label e9c0885b
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 00334e35
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 8e2e8a37
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label d35941b0
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 6e3a7ffe
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 8be3576c
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 335a67b8
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 0f918b08
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 25a049f5
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label d3ac8c59
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 8e33426b
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 952f74fc
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label bfe35895
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 5af9fe3c
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label a742fe39
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 72695199
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label f78774fc
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 3e1af0b6
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label ad4a7776
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label cba7311b
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 669df438
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 4949d7e0
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 3b495fd8
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 39a9cd69
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label dbba0495
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 5b54df06
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 6a504f2b
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 8dede318
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label b7d69c9a
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 22f3aa53
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 1e13df4b
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 32d1e9e3
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label c9d7871f
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 61c7b3bb
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 87e4ed26
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 12d177de
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label a3e23c79
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 98ceb555
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label d73d21ad
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 33094468
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label dbd78e05
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label f241018d
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 1b270249
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 57635cee
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 33b9d25b
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label c335b5c0
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 69b65052
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label c5f5352a
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 4153767f
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 9a71ea04
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label b3b72eee
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label a48c0f1d
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 516fe139
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 7fa9287b
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 95f85d43
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label a402dfd3
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label bbe3fade
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label fda5452f
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label f5c6c76f
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 1b1e6d8f
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 6742b2e0
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label c9d445b6
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label ce527ba4
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label fd8fe29a
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 42beddbe
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 4a8a8e69
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 17aaf397
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label fe34ed6f
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 4c04815f
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label d6346c37
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 6eb90d03
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 647623c6
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label f250bf77
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label cd28592a
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label e06a7169
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label f7c6babf
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 2b66d519
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label e332d224
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label ea84fca4
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label a13e9751
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 344ecf91
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label fb332f9f
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 006ea296
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 12a3cb29
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label ccd4b390
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 798f4612
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label a1ca2a13
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 972ef1f2
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label 1dd937b2
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label c2633ed4
-python infomap_sims.py --size_ratio 1 --noise_level 0.15000000000000002 --label f09e70c1
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label c227bb32
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 6fb3088d
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label ea7cb48a
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label e7830a04
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label f80bccc6
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label fa490ce4
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 1a2fdef4
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label a193e41d
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label aa412353
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label e8c7c33c
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 7376c230
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 366e7aca
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 2c53f4da
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label fc15de79
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label c4b8c7db
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 4726520f
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 1d443c4d
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 2c8a9252
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 7b4f7273
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 15b966c1
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 189249c3
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label a6b49eaa
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 5d356b9a
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label b9ac75d4
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label ba12c5e2
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 2bd734ea
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 18b6b0c6
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label f6e80dcf
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 8ade32a8
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 362ce753
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 7ea3ef64
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label b7e18b9a
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 54262301
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 2fcd265c
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 47d7b56e
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 3a69a3f5
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 8e6db790
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 5219cf15
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 6e603d29
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label fe6b23bd
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label f3544f4a
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 59ba0792
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 3fcb92a7
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label dd4fa2a0
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 2140ec40
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 03222fc3
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 72390b9a
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label bfc7d6ca
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label ac239b7c
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 3930c4d7
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label e0c8fe3c
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 37e1d10f
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 007f03ec
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label f2f8a1bc
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 56e91908
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 4a2ee431
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label f83472c6
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 724d946b
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 7451bb94
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 48cc1ecf
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 06854ff0
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 181ce08c
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label dbaa99f0
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 81a853d4
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label d5ed9dc5
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label f647e100
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label f35f5299
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 91b0aca4
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 74d4d3db
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label b47b7881
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label ff8af313
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 37f8ab77
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 74ee6fe2
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 4b1c03d5
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label e1d0ab0f
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label b2e7c2f4
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label a4e2a4f6
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 79c3c7e8
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 46cf8b94
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label cdc0e7a6
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label ddffb0ff
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label ffe50a02
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label e3fc7028
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label ac8a7531
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 33ba5f8e
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 67708b09
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label f8783f6a
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 21479df2
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label d10b9791
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 8c34e70d
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label d78bbf8c
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 2e4fd032
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label c568996f
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label c3c8ee4f
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label b8e8a6a6
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 44aeeb82
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label a81f0ab5
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label a4d9f1aa
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 5cdb6bed
-python infomap_sims.py --size_ratio 1 --noise_level 0.20000000000000004 --label 7af26e57
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label e2861a3f
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label c10142c5
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 18bc55a4
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label cfef0282
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label e2752fad
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 362b7ecd
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label e47976c4
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 03cd8b77
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 8ffa1df3
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 7a8c937e
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 825102e1
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label ceb1082f
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 936112f3
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 457c4309
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 490bc36e
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label ad207cc3
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 8ae0221f
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 8c98c36c
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 0da4d473
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 320d4650
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 48f9e735
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label cdb4b94e
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label ce0c99e7
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 731f9bb3
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 6eb15a75
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 40697681
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 5d5cb39f
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 90c25ecb
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label fc956433
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 21677e62
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label f3a8240b
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 57459a37
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 98b04dec
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 97de4109
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 52000feb
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 7cdb43cf
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 2f772202
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label f2689c6c
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 7d5cc800
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label e73881fc
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 61d036ef
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 60b61a3c
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label bf569c21
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 154ac64b
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label a6de5c54
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label c4e7ea37
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 2fbd28bb
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label aadaea1c
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label f801bf45
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 9649fb13
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 108c9c3a
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 845a67ed
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label b2d8de96
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 09e53196
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label ff5521a9
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 451ba7e9
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 3e3570a0
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 63e8dc38
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 14d3c064
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 49c5e1de
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 14d253e5
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label d4ed69f4
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 79f43d9c
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label bac60f2f
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label b2d331b9
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 6c091f50
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 63ca2bf4
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label aac86916
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 8a5107e7
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 1e813510
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label f4b3dd0b
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 4ef5f800
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label af9b0e42
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 79d2d360
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 051d16f9
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 595c0a2c
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label d1445b55
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label c3212670
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label cfc02f95
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 5454bf24
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 83710c06
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 2486e824
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label db8ccc17
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label f1d1029a
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 74ccf2c7
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label d39d511a
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 08254321
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 13f5eeb3
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 735a194a
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 04006ff6
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 2e946c69
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label c6bbd9c9
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label a726f49a
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 590246b8
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 56e19f3a
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 237116dd
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 4cfee882
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 7bdd0781
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label e7b354e9
-python infomap_sims.py --size_ratio 1 --noise_level 0.25000000000000006 --label 442add9f
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 0986778d
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label a804461e
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 87f3ed98
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 48a5fe5d
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label ae2eae88
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label d5692311
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label ac42b137
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label a37cc156
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label ec33af27
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label e9f6cc12
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 5438677e
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 45aa91d1
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label d6bf8d44
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label d96362d2
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label d2bb61ec
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label fe875d97
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 4851b142
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label f227fd6b
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 05832df8
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 8c92df04
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label de5b0c93
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 3f1b0338
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label b6a92037
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 91e01c84
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label fcb9c644
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label fe704022
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 11d2f989
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 4e493449
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 9fcdd678
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label e3c2b41e
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 80e9b36a
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 16bf00c0
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 0a1b7485
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label bf9ccc34
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 38db5f86
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 5c4c3ed7
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label aad5e81b
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 403e1a03
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 071ace6b
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label f358f9a2
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label c39aed67
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label c4713a96
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 055a88d5
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label f200219b
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label f86e59ea
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 07133ef0
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 33ff139d
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 81ef84cb
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label c764fcd7
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 83988c15
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 43648ce5
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 0157908a
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label c2d26ed6
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 6e2b233f
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label e856bb73
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 952d4d18
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 6ce00f51
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label c6bc892e
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label d1b398ee
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 84fc16a8
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 8258e889
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 1ecb11be
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 24eb8c50
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 2c688f41
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 57d40974
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label f80ed1b8
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label c2006835
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label ea83b881
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label fdcf1cea
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 79eb733c
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 70b5d426
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 79f05d4a
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 051ac99b
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label a2ef4dd0
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 8d07218f
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 0f91e056
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label a8969063
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 73dfff7b
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 9275c533
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label dd4d13be
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label a135f65b
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 32aeaddb
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 4f3a4e74
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label b0d21024
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label b6a6e8d8
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label cba25bc4
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 2d83a9d2
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 8ad4a95c
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 79f604d7
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label e96335fe
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 462c99ad
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 0bece952
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 306b5383
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 81ad6bc0
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label e7b179b1
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label e6da5549
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label d8afdf7e
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 355bee24
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label e503caaa
-python infomap_sims.py --size_ratio 1 --noise_level 0.30000000000000004 --label 58462069
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 57d1b598
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 832ff981
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 56af1481
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 0b847d36
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label c9dab2b7
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 0e48309c
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label edf59425
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 40f402d4
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label b007937c
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label a10de574
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 6767bd55
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 309f7c1a
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label f663eb48
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 466a0c57
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 303b449f
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label e3003aa8
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 483d14c1
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 16fc56cc
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label f632b94c
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 8e2eb8e9
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label b7c9d5c2
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 35b4e7b1
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 7492ec4d
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 1b1cbec0
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 9e611c1b
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label e44fee0f
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 0fc16a8f
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 9f076a56
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 5b9b8df7
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 8f0f1738
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label f0453d0e
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 8e888d65
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label d65869d3
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 8fbd4037
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label c5d4a197
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 38fdd5bc
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 77050996
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label a8d86258
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label a0a47919
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 328e1448
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 6e9610b9
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label be1e98dd
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 9a5e1c80
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label c684a473
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 50448225
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 2e602e77
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 2eaadfee
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 61aac6ba
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label ff58d50c
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label deaec563
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 2c2cef39
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 70e2535f
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 18737c9d
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 30749aef
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label b915a14c
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label f778b6b0
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label e92ac44c
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 0bcb4171
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label b8e3c957
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 24560858
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 407d9e92
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 8ae7991d
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 4798efbb
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 4fe94782
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label d0f483b2
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 58477595
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 9536f0f8
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 4717f34b
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 79fdccec
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 5b083e5c
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 3b241577
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label b70b308d
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 63db539c
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 6163cc74
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 4aa905e7
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 2a66b06c
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 29c262d1
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 17967b02
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 17e776b3
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 32e3405b
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 90abacd7
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 3aedece1
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label ba0016d6
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 7cae2063
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label c18a7a73
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label c152745f
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 76c9a714
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label d42edd74
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label c4b9035d
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label cfa1f50e
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label da68c3a1
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 7212d182
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 021ba1f9
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 45a2a0d9
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 744ca0e6
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 0a55ee24
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 6027d8a1
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label e92e6ded
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label d7a91c32
-python infomap_sims.py --size_ratio 1 --noise_level 0.3500000000000001 --label 2c024275
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 3b9527e8
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 2480e4e6
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label a0a42fe5
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 91b87d25
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 03b8e41a
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label ebafb8c2
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label b2698d15
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 138dc96d
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label fce714a5
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 7315d3b3
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 37724ac0
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 2bde47a5
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 93e492ba
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 6390d13b
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 61268448
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label f4d5c4c1
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label ca59d488
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 4a2415bd
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 9467bc61
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 77b312ba
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 0bfab887
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 6ffb76c3
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 7eb5d797
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 4141627e
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 0e480030
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label a45fdce5
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 369fd48d
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label bb4efcf3
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label ec66c7d4
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 22091258
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 41b5b235
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 583527d4
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 3f99315b
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 04d4b41d
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 0b9a32a0
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 5b8ec7bd
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label f4db216d
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label d82fed1e
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 3b7237c6
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label cae54f72
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 0e1b7b65
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 5369e08e
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label a3ba4436
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label b0c6156f
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 33c47f2e
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 469d9245
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 960b697c
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 89c87384
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label a82d77f7
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 651a63e7
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 639c3c09
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label fd78165b
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 7780443f
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 5b9b74ec
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 79192391
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 30c2ed74
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 2fd5673c
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 654174dc
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 87da8a06
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label d9f5a27e
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 13b358ed
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 4ecb8566
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label a3a9d27d
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 044c7484
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label c7567184
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 19a33c05
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 54156baf
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label a3120287
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 12303716
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 3a31dbc1
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label aa3b3218
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 4ac90da6
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 87a682ee
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 33c5f712
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 8441bb11
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 66ad85b5
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label b90cf248
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label f0b06d67
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 6e3b81d6
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 480a6d9b
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label ab1ad515
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 4b7b5486
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label e63260c2
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label a79d0ae0
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 79ccc578
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 0a5daee9
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 57ff3110
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label c0e78521
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label a379d487
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 37b62ccc
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label f5071a8d
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 9706e17e
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label cbb63e78
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 68f03d48
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 8d57fddc
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label f3c65572
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 8e74345a
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label c3ac5fcb
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label e0e87e88
-python infomap_sims.py --size_ratio 1 --noise_level 0.40000000000000013 --label 39103259
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 867a954c
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 5c204ae7
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label b5f23dd0
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label e259d1b3
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 88b1b819
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label f2a4a64a
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label f46d935c
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 8b887f52
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 7a00a976
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label fe47e290
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label be92acee
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label fb3d1c58
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 1d603a66
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 2a31fcee
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label a8ce7df7
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 4af5b98d
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 61149926
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 45acc067
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 9877e6cd
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label dc39c0f1
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label f35b0b77
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 3a930235
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 1d6d50d1
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 1c9cc1ac
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 080cf743
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 1f6c72a5
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label b7326573
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 183012f6
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 37e7d5c0
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 8b78e3d9
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 141f4f78
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 97b2b349
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label fa72e103
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 39d300c1
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 947d8c88
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 20001a29
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label d99c471a
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 05e87e81
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 75ae4990
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label a03e6e95
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label dd8177b6
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 950fbea5
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 3cb1b4d6
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 3daa8f6e
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label fe70fa76
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 01e73d83
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label df3b0ea9
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label cf363a15
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 9192955c
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 93b7d36d
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 33640c2f
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label e383968f
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 8204550f
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label bf97df54
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 67e4c358
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label d4704bd4
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label ca05b304
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 781cde74
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 55e38911
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 8bc11262
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 838f8c96
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label cae79976
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 8ddc7237
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label f1114237
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 6f2fd4d7
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label ea517f09
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label f7f49689
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label ae8310b0
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label eff2a78e
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 4760acbf
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 7cf7c5a4
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label b7e249e9
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label a383995c
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label b5456f2e
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label e0837ba9
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 31776b91
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 00867ba3
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 23bbe27c
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label bff619b7
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 63f063cf
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 15a43b37
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 8849d83a
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 84d8dc5f
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 1af047fa
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 74e04094
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 93a6a0c3
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 495fd36f
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 6943db95
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 95108388
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 26f79a0c
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label ebc770e9
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 1f075cc1
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label cffc87db
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 091abea0
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label f0a4dd1f
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 76d21940
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label a08f0d0e
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 23cff39a
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 5589d34c
-python infomap_sims.py --size_ratio 1 --noise_level 0.4500000000000001 --label 9894222f
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 4885ca59
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 2edc097b
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 7ca05529
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 8c3c66af
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label f37ffcbc
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 1c211c16
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 6c275912
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 0f6c2980
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label f9a7fd68
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label bc2a1a1d
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label f1ba55d9
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label e5a02c65
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label a8bcc36f
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label de78bb3a
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label e7237456
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 5462d4f0
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 97f2dbce
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 16561234
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 0e3a39d9
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 242cb283
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label c4c91488
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label b5ff703b
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 35d9e89e
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 5ed076e2
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label d9b311a4
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 43c32737
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 19c4561a
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 76069315
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 2bcdd081
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label e1787be4
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label d6349de9
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label f8757efa
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 54b2ac0a
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 083288e4
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label deab561e
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label e44c6bbe
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 17d67741
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 940ba35e
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 5ceb0c6a
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 266a7e6e
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 39ea94fc
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label a41ee3de
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 8f849c08
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label dd57f7c9
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label b903868d
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label b54d563d
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label e79b284d
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 45581ac2
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label cb782f37
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 9a8ebfbf
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label b1579c8e
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 77dd8691
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 86edffc1
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 9079694e
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label e4718e0e
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label d0d37a49
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 5d183b95
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 49f3a5d5
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label cc8ef2e1
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label dc8a1f20
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label c476c5cf
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 4abc9ee3
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 02aee502
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 184d6a8d
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 81ad6e44
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 0bc60967
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label dbcec306
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 6cf8f8b5
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 6ee942bb
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label eca8e13e
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 4836cda6
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 92fa5071
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 05a200c6
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 93365819
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 0879afe3
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 3297e659
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 0808cbcc
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 52dc63a3
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 59efec24
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label f7ca80fd
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 060173b2
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 1cfa2ba0
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 8accfcc0
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 16e507ea
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label bcbe78ba
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 83526b68
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 1d034d67
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 9d5cf457
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 1c0ed95c
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 533ffb13
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label f23dfc8a
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 667c96db
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 74f9f67f
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 795fa83c
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label d0487084
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 3d5671c9
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 0bdcf653
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label c1a7483e
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label de51e237
-python infomap_sims.py --size_ratio 1 --noise_level 0.5000000000000001 --label 0e1158c4
+python infomap_sims.py --noise_level 0.05 --label 2cb0e7ca
+python infomap_sims.py --noise_level 0.05 --label 269c9909
+python infomap_sims.py --noise_level 0.05 --label 3ec757ce
+python infomap_sims.py --noise_level 0.05 --label eb4680c8
+python infomap_sims.py --noise_level 0.05 --label 78b61cb2
+python infomap_sims.py --noise_level 0.05 --label c5e9db68
+python infomap_sims.py --noise_level 0.05 --label 9441382c
+python infomap_sims.py --noise_level 0.05 --label 07ee4fdd
+python infomap_sims.py --noise_level 0.05 --label c8949ff6
+python infomap_sims.py --noise_level 0.05 --label e3925c26
+python infomap_sims.py --noise_level 0.05 --label 5b0db9b2
+python infomap_sims.py --noise_level 0.05 --label 11d5995f
+python infomap_sims.py --noise_level 0.05 --label 9cd4ce5b
+python infomap_sims.py --noise_level 0.05 --label 34ba16d3
+python infomap_sims.py --noise_level 0.05 --label d1a2e534
+python infomap_sims.py --noise_level 0.05 --label 3cf841c5
+python infomap_sims.py --noise_level 0.05 --label b4602774
+python infomap_sims.py --noise_level 0.05 --label c8ef258a
+python infomap_sims.py --noise_level 0.05 --label 18ff5c90
+python infomap_sims.py --noise_level 0.05 --label de154fc5
+python infomap_sims.py --noise_level 0.05 --label 5872c203
+python infomap_sims.py --noise_level 0.05 --label bf7da1b8
+python infomap_sims.py --noise_level 0.05 --label 39488ad2
+python infomap_sims.py --noise_level 0.05 --label 1fb61306
+python infomap_sims.py --noise_level 0.05 --label 9db6ea6a
+python infomap_sims.py --noise_level 0.05 --label 56e5db70
+python infomap_sims.py --noise_level 0.05 --label 0f047852
+python infomap_sims.py --noise_level 0.05 --label 552c81a0
+python infomap_sims.py --noise_level 0.05 --label e4a69289
+python infomap_sims.py --noise_level 0.05 --label 52b66e5e
+python infomap_sims.py --noise_level 0.05 --label 302b4c12
+python infomap_sims.py --noise_level 0.05 --label e63d7b11
+python infomap_sims.py --noise_level 0.05 --label 4fcceed2
+python infomap_sims.py --noise_level 0.05 --label 783b8e6f
+python infomap_sims.py --noise_level 0.05 --label 68760aaf
+python infomap_sims.py --noise_level 0.05 --label 46caed5e
+python infomap_sims.py --noise_level 0.05 --label 120aaff3
+python infomap_sims.py --noise_level 0.05 --label 1b6b40aa
+python infomap_sims.py --noise_level 0.05 --label 32a310bd
+python infomap_sims.py --noise_level 0.05 --label 51ec74f5
+python infomap_sims.py --noise_level 0.05 --label b0afbc10
+python infomap_sims.py --noise_level 0.05 --label f1b9c3c3
+python infomap_sims.py --noise_level 0.05 --label c283811b
+python infomap_sims.py --noise_level 0.05 --label e921b893
+python infomap_sims.py --noise_level 0.05 --label 9d5b8c27
+python infomap_sims.py --noise_level 0.05 --label 6a56e95b
+python infomap_sims.py --noise_level 0.05 --label 39be76cd
+python infomap_sims.py --noise_level 0.05 --label 81109d90
+python infomap_sims.py --noise_level 0.05 --label 6ef14e3e
+python infomap_sims.py --noise_level 0.05 --label 0b6e1e59
+python infomap_sims.py --noise_level 0.05 --label aa0d6189
+python infomap_sims.py --noise_level 0.05 --label 8b63a04b
+python infomap_sims.py --noise_level 0.05 --label 5af855d9
+python infomap_sims.py --noise_level 0.05 --label ec3d4458
+python infomap_sims.py --noise_level 0.05 --label e00a52aa
+python infomap_sims.py --noise_level 0.05 --label dc2f71ab
+python infomap_sims.py --noise_level 0.05 --label deaa8bea
+python infomap_sims.py --noise_level 0.05 --label 4b1f541d
+python infomap_sims.py --noise_level 0.05 --label 78c8d506
+python infomap_sims.py --noise_level 0.05 --label 6c1cdc11
+python infomap_sims.py --noise_level 0.05 --label ce02c02f
+python infomap_sims.py --noise_level 0.05 --label c034db34
+python infomap_sims.py --noise_level 0.05 --label 42e677fe
+python infomap_sims.py --noise_level 0.05 --label 65b9eaf2
+python infomap_sims.py --noise_level 0.05 --label fa830613
+python infomap_sims.py --noise_level 0.05 --label 28a66ae7
+python infomap_sims.py --noise_level 0.05 --label 5194f7e4
+python infomap_sims.py --noise_level 0.05 --label 479f16db
+python infomap_sims.py --noise_level 0.05 --label 68f4e935
+python infomap_sims.py --noise_level 0.05 --label 0788fe2e
+python infomap_sims.py --noise_level 0.05 --label f0c53e05
+python infomap_sims.py --noise_level 0.05 --label df56cdbe
+python infomap_sims.py --noise_level 0.05 --label cd1ac16b
+python infomap_sims.py --noise_level 0.05 --label 85066fb4
+python infomap_sims.py --noise_level 0.05 --label 1a1bf6f7
+python infomap_sims.py --noise_level 0.05 --label 9717a03f
+python infomap_sims.py --noise_level 0.05 --label e47243e5
+python infomap_sims.py --noise_level 0.05 --label 8b2d72e8
+python infomap_sims.py --noise_level 0.05 --label b52ce09a
+python infomap_sims.py --noise_level 0.05 --label 4e004133
+python infomap_sims.py --noise_level 0.05 --label 16de417a
+python infomap_sims.py --noise_level 0.05 --label 6a324a6d
+python infomap_sims.py --noise_level 0.05 --label fef11409
+python infomap_sims.py --noise_level 0.05 --label 9084701b
+python infomap_sims.py --noise_level 0.05 --label 39ecd570
+python infomap_sims.py --noise_level 0.05 --label 8069321f
+python infomap_sims.py --noise_level 0.05 --label 37056d19
+python infomap_sims.py --noise_level 0.05 --label 873c13a1
+python infomap_sims.py --noise_level 0.05 --label 49ac6957
+python infomap_sims.py --noise_level 0.05 --label 42159a3a
+python infomap_sims.py --noise_level 0.05 --label e371c5a0
+python infomap_sims.py --noise_level 0.05 --label c1c53325
+python infomap_sims.py --noise_level 0.05 --label 2f109ab5
+python infomap_sims.py --noise_level 0.05 --label 8f8d8adc
+python infomap_sims.py --noise_level 0.05 --label f8affb05
+python infomap_sims.py --noise_level 0.05 --label 92624363
+python infomap_sims.py --noise_level 0.05 --label 0d25c65b
+python infomap_sims.py --noise_level 0.05 --label 0b98a744
+python infomap_sims.py --noise_level 0.05 --label c9bb6655
+python infomap_sims.py --noise_level 0.05 --label 3da67268
+python infomap_sims.py --noise_level 0.10 --label 7b0a4d44
+python infomap_sims.py --noise_level 0.10 --label 0570c88c
+python infomap_sims.py --noise_level 0.10 --label 39b7a3a9
+python infomap_sims.py --noise_level 0.10 --label 9015be61
+python infomap_sims.py --noise_level 0.10 --label 0f21bb92
+python infomap_sims.py --noise_level 0.10 --label 52e1252a
+python infomap_sims.py --noise_level 0.10 --label 059c2eff
+python infomap_sims.py --noise_level 0.10 --label 7a1fa4b7
+python infomap_sims.py --noise_level 0.10 --label 59a0f420
+python infomap_sims.py --noise_level 0.10 --label 20dc5026
+python infomap_sims.py --noise_level 0.10 --label 1ee29abb
+python infomap_sims.py --noise_level 0.10 --label e10204a6
+python infomap_sims.py --noise_level 0.10 --label 78d6f3e5
+python infomap_sims.py --noise_level 0.10 --label 54faac79
+python infomap_sims.py --noise_level 0.10 --label c8b57031
+python infomap_sims.py --noise_level 0.10 --label 90317ef9
+python infomap_sims.py --noise_level 0.10 --label e1014743
+python infomap_sims.py --noise_level 0.10 --label 76bb2fa4
+python infomap_sims.py --noise_level 0.10 --label 07ba7f55
+python infomap_sims.py --noise_level 0.10 --label 2392070a
+python infomap_sims.py --noise_level 0.10 --label e2b1d9c4
+python infomap_sims.py --noise_level 0.10 --label 7119ffe7
+python infomap_sims.py --noise_level 0.10 --label 6a8cb99e
+python infomap_sims.py --noise_level 0.10 --label e3617f47
+python infomap_sims.py --noise_level 0.10 --label a75f1cde
+python infomap_sims.py --noise_level 0.10 --label c22d39aa
+python infomap_sims.py --noise_level 0.10 --label c585b0ad
+python infomap_sims.py --noise_level 0.10 --label 85524d58
+python infomap_sims.py --noise_level 0.10 --label bb8e97ee
+python infomap_sims.py --noise_level 0.10 --label 4d99462f
+python infomap_sims.py --noise_level 0.10 --label 35a06666
+python infomap_sims.py --noise_level 0.10 --label e0920e74
+python infomap_sims.py --noise_level 0.10 --label a9dc8df8
+python infomap_sims.py --noise_level 0.10 --label 1d5e67b7
+python infomap_sims.py --noise_level 0.10 --label ef687e63
+python infomap_sims.py --noise_level 0.10 --label 8db5380e
+python infomap_sims.py --noise_level 0.10 --label 05bfcb09
+python infomap_sims.py --noise_level 0.10 --label faf9e6fc
+python infomap_sims.py --noise_level 0.10 --label 67e0765f
+python infomap_sims.py --noise_level 0.10 --label 1fa5b13a
+python infomap_sims.py --noise_level 0.10 --label 5b038579
+python infomap_sims.py --noise_level 0.10 --label 4baead02
+python infomap_sims.py --noise_level 0.10 --label 697f0702
+python infomap_sims.py --noise_level 0.10 --label 4c3bcd56
+python infomap_sims.py --noise_level 0.10 --label 45990fa8
+python infomap_sims.py --noise_level 0.10 --label 0a00c28d
+python infomap_sims.py --noise_level 0.10 --label 2f99b19c
+python infomap_sims.py --noise_level 0.10 --label df75a78f
+python infomap_sims.py --noise_level 0.10 --label 1f509776
+python infomap_sims.py --noise_level 0.10 --label 550606af
+python infomap_sims.py --noise_level 0.10 --label d6b8c9a8
+python infomap_sims.py --noise_level 0.10 --label 5a1d7f5b
+python infomap_sims.py --noise_level 0.10 --label f4979965
+python infomap_sims.py --noise_level 0.10 --label 98c5307b
+python infomap_sims.py --noise_level 0.10 --label a2d2f5ec
+python infomap_sims.py --noise_level 0.10 --label fcd533cd
+python infomap_sims.py --noise_level 0.10 --label fd0ec752
+python infomap_sims.py --noise_level 0.10 --label e8b3876c
+python infomap_sims.py --noise_level 0.10 --label c05616a2
+python infomap_sims.py --noise_level 0.10 --label 39c20a00
+python infomap_sims.py --noise_level 0.10 --label 67b8635f
+python infomap_sims.py --noise_level 0.10 --label 8a0fe4f5
+python infomap_sims.py --noise_level 0.10 --label a201a686
+python infomap_sims.py --noise_level 0.10 --label a655f17f
+python infomap_sims.py --noise_level 0.10 --label 01146453
+python infomap_sims.py --noise_level 0.10 --label f6cbd8c3
+python infomap_sims.py --noise_level 0.10 --label cdbdb793
+python infomap_sims.py --noise_level 0.10 --label 36fcf3f6
+python infomap_sims.py --noise_level 0.10 --label 4cf0f5c7
+python infomap_sims.py --noise_level 0.10 --label 72c80aad
+python infomap_sims.py --noise_level 0.10 --label 3a371962
+python infomap_sims.py --noise_level 0.10 --label f132c203
+python infomap_sims.py --noise_level 0.10 --label 98001c3a
+python infomap_sims.py --noise_level 0.10 --label 2c1781a3
+python infomap_sims.py --noise_level 0.10 --label 2bf235c3
+python infomap_sims.py --noise_level 0.10 --label 632638c0
+python infomap_sims.py --noise_level 0.10 --label 46ae94ab
+python infomap_sims.py --noise_level 0.10 --label 31375c53
+python infomap_sims.py --noise_level 0.10 --label edad9bb1
+python infomap_sims.py --noise_level 0.10 --label 32ed3a74
+python infomap_sims.py --noise_level 0.10 --label 1deeebd1
+python infomap_sims.py --noise_level 0.10 --label bd2396b6
+python infomap_sims.py --noise_level 0.10 --label d04ef1fd
+python infomap_sims.py --noise_level 0.10 --label 33e2c0a8
+python infomap_sims.py --noise_level 0.10 --label 55fbacbf
+python infomap_sims.py --noise_level 0.10 --label b2854f7d
+python infomap_sims.py --noise_level 0.10 --label 1b357928
+python infomap_sims.py --noise_level 0.10 --label 42baca96
+python infomap_sims.py --noise_level 0.10 --label 9b0545ab
+python infomap_sims.py --noise_level 0.10 --label ce4699c6
+python infomap_sims.py --noise_level 0.10 --label 00741637
+python infomap_sims.py --noise_level 0.10 --label 51dbc147
+python infomap_sims.py --noise_level 0.10 --label d90d486b
+python infomap_sims.py --noise_level 0.10 --label d4023074
+python infomap_sims.py --noise_level 0.10 --label 6c073bde
+python infomap_sims.py --noise_level 0.10 --label 1eb5b2e9
+python infomap_sims.py --noise_level 0.10 --label 861311a4
+python infomap_sims.py --noise_level 0.10 --label 63ef13fc
+python infomap_sims.py --noise_level 0.10 --label 2e0ed565
+python infomap_sims.py --noise_level 0.10 --label 4f591714
+python infomap_sims.py --noise_level 0.15 --label 09e32c1d
+python infomap_sims.py --noise_level 0.15 --label 07734d84
+python infomap_sims.py --noise_level 0.15 --label 7079e97e
+python infomap_sims.py --noise_level 0.15 --label 56940dc9
+python infomap_sims.py --noise_level 0.15 --label 4ef115f2
+python infomap_sims.py --noise_level 0.15 --label 35929f70
+python infomap_sims.py --noise_level 0.15 --label 5a1688ce
+python infomap_sims.py --noise_level 0.15 --label 49e86147
+python infomap_sims.py --noise_level 0.15 --label 7f6794be
+python infomap_sims.py --noise_level 0.15 --label 32941e74
+python infomap_sims.py --noise_level 0.15 --label 6fc1431b
+python infomap_sims.py --noise_level 0.15 --label debaf4a0
+python infomap_sims.py --noise_level 0.15 --label 12c790e2
+python infomap_sims.py --noise_level 0.15 --label cfed88e0
+python infomap_sims.py --noise_level 0.15 --label beedb92e
+python infomap_sims.py --noise_level 0.15 --label 35299a28
+python infomap_sims.py --noise_level 0.15 --label 10bafb97
+python infomap_sims.py --noise_level 0.15 --label b18ab054
+python infomap_sims.py --noise_level 0.15 --label 0ec684e9
+python infomap_sims.py --noise_level 0.15 --label 25be40b4
+python infomap_sims.py --noise_level 0.15 --label 1915c06e
+python infomap_sims.py --noise_level 0.15 --label aa5da344
+python infomap_sims.py --noise_level 0.15 --label c76719bf
+python infomap_sims.py --noise_level 0.15 --label e626be5d
+python infomap_sims.py --noise_level 0.15 --label cad9d17b
+python infomap_sims.py --noise_level 0.15 --label 21c5ae4d
+python infomap_sims.py --noise_level 0.15 --label c976ec42
+python infomap_sims.py --noise_level 0.15 --label 699b4eed
+python infomap_sims.py --noise_level 0.15 --label cd8ab8d5
+python infomap_sims.py --noise_level 0.15 --label add7b2bc
+python infomap_sims.py --noise_level 0.15 --label 3dc22daf
+python infomap_sims.py --noise_level 0.15 --label 18cdae48
+python infomap_sims.py --noise_level 0.15 --label f998b784
+python infomap_sims.py --noise_level 0.15 --label 6ca98ddd
+python infomap_sims.py --noise_level 0.15 --label c8945570
+python infomap_sims.py --noise_level 0.15 --label e2c1e017
+python infomap_sims.py --noise_level 0.15 --label fe2a720e
+python infomap_sims.py --noise_level 0.15 --label 5a6963e8
+python infomap_sims.py --noise_level 0.15 --label 75073d40
+python infomap_sims.py --noise_level 0.15 --label 18792dc5
+python infomap_sims.py --noise_level 0.15 --label 46068bbd
+python infomap_sims.py --noise_level 0.15 --label 4bf16df1
+python infomap_sims.py --noise_level 0.15 --label 3f10a74b
+python infomap_sims.py --noise_level 0.15 --label 91af9093
+python infomap_sims.py --noise_level 0.15 --label bd4072e4
+python infomap_sims.py --noise_level 0.15 --label e0fc7f27
+python infomap_sims.py --noise_level 0.15 --label 87f96e28
+python infomap_sims.py --noise_level 0.15 --label ab521506
+python infomap_sims.py --noise_level 0.15 --label e57442cb
+python infomap_sims.py --noise_level 0.15 --label 98a934dd
+python infomap_sims.py --noise_level 0.15 --label 3df9ac85
+python infomap_sims.py --noise_level 0.15 --label e3c2de75
+python infomap_sims.py --noise_level 0.15 --label 6bfcd332
+python infomap_sims.py --noise_level 0.15 --label c2e7b487
+python infomap_sims.py --noise_level 0.15 --label b637beb7
+python infomap_sims.py --noise_level 0.15 --label da4288df
+python infomap_sims.py --noise_level 0.15 --label 47b3ab2a
+python infomap_sims.py --noise_level 0.15 --label f003d963
+python infomap_sims.py --noise_level 0.15 --label 698557a1
+python infomap_sims.py --noise_level 0.15 --label 49e15fad
+python infomap_sims.py --noise_level 0.15 --label a412eafc
+python infomap_sims.py --noise_level 0.15 --label 38b3f91b
+python infomap_sims.py --noise_level 0.15 --label 9a3d6bad
+python infomap_sims.py --noise_level 0.15 --label 022b0ea4
+python infomap_sims.py --noise_level 0.15 --label 5c55b8f3
+python infomap_sims.py --noise_level 0.15 --label 1193b353
+python infomap_sims.py --noise_level 0.15 --label 89f4c995
+python infomap_sims.py --noise_level 0.15 --label 103c1cea
+python infomap_sims.py --noise_level 0.15 --label 8a56d34a
+python infomap_sims.py --noise_level 0.15 --label ebc834ff
+python infomap_sims.py --noise_level 0.15 --label b1149d37
+python infomap_sims.py --noise_level 0.15 --label 8bbc698b
+python infomap_sims.py --noise_level 0.15 --label aadca740
+python infomap_sims.py --noise_level 0.15 --label b4acf2ae
+python infomap_sims.py --noise_level 0.15 --label f0887530
+python infomap_sims.py --noise_level 0.15 --label 61dcb58e
+python infomap_sims.py --noise_level 0.15 --label 438a866a
+python infomap_sims.py --noise_level 0.15 --label b2877898
+python infomap_sims.py --noise_level 0.15 --label d703f1a5
+python infomap_sims.py --noise_level 0.15 --label 15f13828
+python infomap_sims.py --noise_level 0.15 --label 307312b8
+python infomap_sims.py --noise_level 0.15 --label 47a49ba3
+python infomap_sims.py --noise_level 0.15 --label cdabf8e4
+python infomap_sims.py --noise_level 0.15 --label c4cc1199
+python infomap_sims.py --noise_level 0.15 --label 2da03fe2
+python infomap_sims.py --noise_level 0.15 --label 6954de5e
+python infomap_sims.py --noise_level 0.15 --label 8ba899e4
+python infomap_sims.py --noise_level 0.15 --label db24deb8
+python infomap_sims.py --noise_level 0.15 --label 8bf8cd71
+python infomap_sims.py --noise_level 0.15 --label 7566e70c
+python infomap_sims.py --noise_level 0.15 --label 39c0362e
+python infomap_sims.py --noise_level 0.15 --label ec4e41ba
+python infomap_sims.py --noise_level 0.15 --label 5da80899
+python infomap_sims.py --noise_level 0.15 --label d0891774
+python infomap_sims.py --noise_level 0.15 --label 7a667dea
+python infomap_sims.py --noise_level 0.15 --label 4e561c65
+python infomap_sims.py --noise_level 0.15 --label b3664ce7
+python infomap_sims.py --noise_level 0.15 --label af693b94
+python infomap_sims.py --noise_level 0.15 --label 48f98865
+python infomap_sims.py --noise_level 0.15 --label 6c29a72e
+python infomap_sims.py --noise_level 0.20 --label 0c864fb6
+python infomap_sims.py --noise_level 0.20 --label cbd2e1a9
+python infomap_sims.py --noise_level 0.20 --label ee185d0b
+python infomap_sims.py --noise_level 0.20 --label b279b365
+python infomap_sims.py --noise_level 0.20 --label c9523935
+python infomap_sims.py --noise_level 0.20 --label 561213a7
+python infomap_sims.py --noise_level 0.20 --label ee752045
+python infomap_sims.py --noise_level 0.20 --label 8906c945
+python infomap_sims.py --noise_level 0.20 --label 74012854
+python infomap_sims.py --noise_level 0.20 --label fbe0e01c
+python infomap_sims.py --noise_level 0.20 --label 08477807
+python infomap_sims.py --noise_level 0.20 --label c4f0955b
+python infomap_sims.py --noise_level 0.20 --label 6d4abd7e
+python infomap_sims.py --noise_level 0.20 --label 61e37f1f
+python infomap_sims.py --noise_level 0.20 --label 0ee4c629
+python infomap_sims.py --noise_level 0.20 --label a0fcaf02
+python infomap_sims.py --noise_level 0.20 --label 23e855f1
+python infomap_sims.py --noise_level 0.20 --label a75457ae
+python infomap_sims.py --noise_level 0.20 --label 32c1ee89
+python infomap_sims.py --noise_level 0.20 --label 38dc1836
+python infomap_sims.py --noise_level 0.20 --label 2d33a5ca
+python infomap_sims.py --noise_level 0.20 --label c6167d99
+python infomap_sims.py --noise_level 0.20 --label 3a196e0d
+python infomap_sims.py --noise_level 0.20 --label c60d86f8
+python infomap_sims.py --noise_level 0.20 --label 05fcb049
+python infomap_sims.py --noise_level 0.20 --label 0f1be20f
+python infomap_sims.py --noise_level 0.20 --label a23d55f6
+python infomap_sims.py --noise_level 0.20 --label 14fbc63d
+python infomap_sims.py --noise_level 0.20 --label d7f81d9f
+python infomap_sims.py --noise_level 0.20 --label 6a21fd7e
+python infomap_sims.py --noise_level 0.20 --label 018831ea
+python infomap_sims.py --noise_level 0.20 --label 286ed4d5
+python infomap_sims.py --noise_level 0.20 --label 33cf7467
+python infomap_sims.py --noise_level 0.20 --label 7a007b36
+python infomap_sims.py --noise_level 0.20 --label e5353178
+python infomap_sims.py --noise_level 0.20 --label 991b6541
+python infomap_sims.py --noise_level 0.20 --label 38e1e61a
+python infomap_sims.py --noise_level 0.20 --label 2ad2cd59
+python infomap_sims.py --noise_level 0.20 --label c8d0f1d0
+python infomap_sims.py --noise_level 0.20 --label bc073895
+python infomap_sims.py --noise_level 0.20 --label d6c49b6e
+python infomap_sims.py --noise_level 0.20 --label 9c541e03
+python infomap_sims.py --noise_level 0.20 --label 416b8ca8
+python infomap_sims.py --noise_level 0.20 --label 8a90666c
+python infomap_sims.py --noise_level 0.20 --label cc304451
+python infomap_sims.py --noise_level 0.20 --label efbefffb
+python infomap_sims.py --noise_level 0.20 --label 78a527c4
+python infomap_sims.py --noise_level 0.20 --label c941ce7c
+python infomap_sims.py --noise_level 0.20 --label 7d2c5b98
+python infomap_sims.py --noise_level 0.20 --label bb6b9657
+python infomap_sims.py --noise_level 0.20 --label 5529c8fe
+python infomap_sims.py --noise_level 0.20 --label 53cbe3c1
+python infomap_sims.py --noise_level 0.20 --label fed86ea1
+python infomap_sims.py --noise_level 0.20 --label 5fa1ca68
+python infomap_sims.py --noise_level 0.20 --label 7a6f716f
+python infomap_sims.py --noise_level 0.20 --label c823f851
+python infomap_sims.py --noise_level 0.20 --label ea823484
+python infomap_sims.py --noise_level 0.20 --label 2f02c905
+python infomap_sims.py --noise_level 0.20 --label 9cf3ef71
+python infomap_sims.py --noise_level 0.20 --label 57b7e19a
+python infomap_sims.py --noise_level 0.20 --label cf06e8ad
+python infomap_sims.py --noise_level 0.20 --label 79448b43
+python infomap_sims.py --noise_level 0.20 --label 0963759b
+python infomap_sims.py --noise_level 0.20 --label 9cd11d1a
+python infomap_sims.py --noise_level 0.20 --label a223306c
+python infomap_sims.py --noise_level 0.20 --label 7c727243
+python infomap_sims.py --noise_level 0.20 --label c63e7e9a
+python infomap_sims.py --noise_level 0.20 --label 5d29a4d5
+python infomap_sims.py --noise_level 0.20 --label 0c936aa9
+python infomap_sims.py --noise_level 0.20 --label 32325ac1
+python infomap_sims.py --noise_level 0.20 --label 1de5d14b
+python infomap_sims.py --noise_level 0.20 --label 558030fe
+python infomap_sims.py --noise_level 0.20 --label 402979c1
+python infomap_sims.py --noise_level 0.20 --label f55d226d
+python infomap_sims.py --noise_level 0.20 --label eaaf0c7f
+python infomap_sims.py --noise_level 0.20 --label dcde08d0
+python infomap_sims.py --noise_level 0.20 --label c5a0c84a
+python infomap_sims.py --noise_level 0.20 --label 2c85c11c
+python infomap_sims.py --noise_level 0.20 --label 41d22131
+python infomap_sims.py --noise_level 0.20 --label 1f919914
+python infomap_sims.py --noise_level 0.20 --label 1c0e5682
+python infomap_sims.py --noise_level 0.20 --label c69b4cc8
+python infomap_sims.py --noise_level 0.20 --label 024d2ccb
+python infomap_sims.py --noise_level 0.20 --label 1bed602b
+python infomap_sims.py --noise_level 0.20 --label 78df1fe9
+python infomap_sims.py --noise_level 0.20 --label 2c61964f
+python infomap_sims.py --noise_level 0.20 --label 1dbc5ee6
+python infomap_sims.py --noise_level 0.20 --label f1c39dc9
+python infomap_sims.py --noise_level 0.20 --label 40d5926e
+python infomap_sims.py --noise_level 0.20 --label aaa1f810
+python infomap_sims.py --noise_level 0.20 --label 80e8d207
+python infomap_sims.py --noise_level 0.20 --label 196cbc67
+python infomap_sims.py --noise_level 0.20 --label d7567c9d
+python infomap_sims.py --noise_level 0.20 --label 0e856e52
+python infomap_sims.py --noise_level 0.20 --label 9eed0f29
+python infomap_sims.py --noise_level 0.20 --label 57cc4e99
+python infomap_sims.py --noise_level 0.20 --label aeaf8285
+python infomap_sims.py --noise_level 0.20 --label 3d609788
+python infomap_sims.py --noise_level 0.20 --label 760f5d86
+python infomap_sims.py --noise_level 0.20 --label 56abea2a
+python infomap_sims.py --noise_level 0.25 --label 7ddb3196
+python infomap_sims.py --noise_level 0.25 --label 84686e6a
+python infomap_sims.py --noise_level 0.25 --label 2bd492ca
+python infomap_sims.py --noise_level 0.25 --label 72a358a2
+python infomap_sims.py --noise_level 0.25 --label 401ff920
+python infomap_sims.py --noise_level 0.25 --label a3eca5ec
+python infomap_sims.py --noise_level 0.25 --label 96350f57
+python infomap_sims.py --noise_level 0.25 --label bbbc63ed
+python infomap_sims.py --noise_level 0.25 --label e7bf50bb
+python infomap_sims.py --noise_level 0.25 --label 661530ad
+python infomap_sims.py --noise_level 0.25 --label a626de5b
+python infomap_sims.py --noise_level 0.25 --label 9f9a8436
+python infomap_sims.py --noise_level 0.25 --label 6128966b
+python infomap_sims.py --noise_level 0.25 --label a8cbdd10
+python infomap_sims.py --noise_level 0.25 --label d7d88809
+python infomap_sims.py --noise_level 0.25 --label 8449dd17
+python infomap_sims.py --noise_level 0.25 --label 9377bab4
+python infomap_sims.py --noise_level 0.25 --label e7f414b9
+python infomap_sims.py --noise_level 0.25 --label 1179b078
+python infomap_sims.py --noise_level 0.25 --label 72ffad25
+python infomap_sims.py --noise_level 0.25 --label c61ad7b6
+python infomap_sims.py --noise_level 0.25 --label cdfe5acd
+python infomap_sims.py --noise_level 0.25 --label fae05589
+python infomap_sims.py --noise_level 0.25 --label a28b3119
+python infomap_sims.py --noise_level 0.25 --label 016c488a
+python infomap_sims.py --noise_level 0.25 --label 542c0488
+python infomap_sims.py --noise_level 0.25 --label ceb2d20f
+python infomap_sims.py --noise_level 0.25 --label c39a111d
+python infomap_sims.py --noise_level 0.25 --label db71352b
+python infomap_sims.py --noise_level 0.25 --label d2719103
+python infomap_sims.py --noise_level 0.25 --label c3a6ce9b
+python infomap_sims.py --noise_level 0.25 --label 7170f861
+python infomap_sims.py --noise_level 0.25 --label 77179595
+python infomap_sims.py --noise_level 0.25 --label ddbc1184
+python infomap_sims.py --noise_level 0.25 --label 3a5198b2
+python infomap_sims.py --noise_level 0.25 --label 5ff2f946
+python infomap_sims.py --noise_level 0.25 --label 41cc5295
+python infomap_sims.py --noise_level 0.25 --label 2cb0776b
+python infomap_sims.py --noise_level 0.25 --label 5f1a3e91
+python infomap_sims.py --noise_level 0.25 --label 46f6fc09
+python infomap_sims.py --noise_level 0.25 --label e120385b
+python infomap_sims.py --noise_level 0.25 --label 2fc342ad
+python infomap_sims.py --noise_level 0.25 --label a0b7a9fb
+python infomap_sims.py --noise_level 0.25 --label 334b1a58
+python infomap_sims.py --noise_level 0.25 --label 7b907859
+python infomap_sims.py --noise_level 0.25 --label e234b18c
+python infomap_sims.py --noise_level 0.25 --label fe2ddf82
+python infomap_sims.py --noise_level 0.25 --label c26373e3
+python infomap_sims.py --noise_level 0.25 --label c33d7a88
+python infomap_sims.py --noise_level 0.25 --label c821f1c1
+python infomap_sims.py --noise_level 0.25 --label 740b1021
+python infomap_sims.py --noise_level 0.25 --label 64ee0ae4
+python infomap_sims.py --noise_level 0.25 --label 1748059d
+python infomap_sims.py --noise_level 0.25 --label e07e0156
+python infomap_sims.py --noise_level 0.25 --label 1c8ce53d
+python infomap_sims.py --noise_level 0.25 --label 8b251fdf
+python infomap_sims.py --noise_level 0.25 --label 6fa42c81
+python infomap_sims.py --noise_level 0.25 --label f1b5da7a
+python infomap_sims.py --noise_level 0.25 --label e7c44c22
+python infomap_sims.py --noise_level 0.25 --label f39c35f9
+python infomap_sims.py --noise_level 0.25 --label d45d87b7
+python infomap_sims.py --noise_level 0.25 --label 267019df
+python infomap_sims.py --noise_level 0.25 --label 3de0f41e
+python infomap_sims.py --noise_level 0.25 --label 4cc219e2
+python infomap_sims.py --noise_level 0.25 --label 84581d2c
+python infomap_sims.py --noise_level 0.25 --label 4ab51875
+python infomap_sims.py --noise_level 0.25 --label a3fafab5
+python infomap_sims.py --noise_level 0.25 --label bed92f81
+python infomap_sims.py --noise_level 0.25 --label 4eb7bbf7
+python infomap_sims.py --noise_level 0.25 --label 270c9bec
+python infomap_sims.py --noise_level 0.25 --label 92e3db7a
+python infomap_sims.py --noise_level 0.25 --label 4fdc0715
+python infomap_sims.py --noise_level 0.25 --label 77946bef
+python infomap_sims.py --noise_level 0.25 --label 3e89d42d
+python infomap_sims.py --noise_level 0.25 --label 1e92cb9f
+python infomap_sims.py --noise_level 0.25 --label e1241bbd
+python infomap_sims.py --noise_level 0.25 --label bde52db4
+python infomap_sims.py --noise_level 0.25 --label f6e7ac8e
+python infomap_sims.py --noise_level 0.25 --label 47ea3049
+python infomap_sims.py --noise_level 0.25 --label 23240778
+python infomap_sims.py --noise_level 0.25 --label 5fcdc125
+python infomap_sims.py --noise_level 0.25 --label 2533c4fa
+python infomap_sims.py --noise_level 0.25 --label 70c4f837
+python infomap_sims.py --noise_level 0.25 --label 2753af89
+python infomap_sims.py --noise_level 0.25 --label 9f013306
+python infomap_sims.py --noise_level 0.25 --label f85279c4
+python infomap_sims.py --noise_level 0.25 --label 9fd3e05d
+python infomap_sims.py --noise_level 0.25 --label 3006d380
+python infomap_sims.py --noise_level 0.25 --label f890f4e6
+python infomap_sims.py --noise_level 0.25 --label 742adf66
+python infomap_sims.py --noise_level 0.25 --label 52875875
+python infomap_sims.py --noise_level 0.25 --label b498da3a
+python infomap_sims.py --noise_level 0.25 --label 236c52bc
+python infomap_sims.py --noise_level 0.25 --label 79ae83b7
+python infomap_sims.py --noise_level 0.25 --label 590d358b
+python infomap_sims.py --noise_level 0.25 --label 7ea283f6
+python infomap_sims.py --noise_level 0.25 --label 95bbf1a3
+python infomap_sims.py --noise_level 0.25 --label c616f40a
+python infomap_sims.py --noise_level 0.25 --label 790c70ce
+python infomap_sims.py --noise_level 0.25 --label c5ba4121
+python infomap_sims.py --noise_level 0.30 --label 49fb0e7b
+python infomap_sims.py --noise_level 0.30 --label 8f9113c3
+python infomap_sims.py --noise_level 0.30 --label c31b9775
+python infomap_sims.py --noise_level 0.30 --label f83cb4bd
+python infomap_sims.py --noise_level 0.30 --label efe2d981
+python infomap_sims.py --noise_level 0.30 --label 4d661bc8
+python infomap_sims.py --noise_level 0.30 --label 28c57175
+python infomap_sims.py --noise_level 0.30 --label c7f59a68
+python infomap_sims.py --noise_level 0.30 --label ff448cd1
+python infomap_sims.py --noise_level 0.30 --label 99ca5c81
+python infomap_sims.py --noise_level 0.30 --label d1089c24
+python infomap_sims.py --noise_level 0.30 --label e2e1a92c
+python infomap_sims.py --noise_level 0.30 --label 18cf20d0
+python infomap_sims.py --noise_level 0.30 --label 76892d01
+python infomap_sims.py --noise_level 0.30 --label 19e053d2
+python infomap_sims.py --noise_level 0.30 --label 176604e5
+python infomap_sims.py --noise_level 0.30 --label 009471ab
+python infomap_sims.py --noise_level 0.30 --label de7bf59f
+python infomap_sims.py --noise_level 0.30 --label c2181e29
+python infomap_sims.py --noise_level 0.30 --label 08207078
+python infomap_sims.py --noise_level 0.30 --label 8e826d5c
+python infomap_sims.py --noise_level 0.30 --label 587e3b3f
+python infomap_sims.py --noise_level 0.30 --label 338fef3e
+python infomap_sims.py --noise_level 0.30 --label b0cee9e3
+python infomap_sims.py --noise_level 0.30 --label 19414f80
+python infomap_sims.py --noise_level 0.30 --label 37c93077
+python infomap_sims.py --noise_level 0.30 --label 533fbcfb
+python infomap_sims.py --noise_level 0.30 --label e0314dae
+python infomap_sims.py --noise_level 0.30 --label 2657d5a6
+python infomap_sims.py --noise_level 0.30 --label 4cb648e3
+python infomap_sims.py --noise_level 0.30 --label ea66465a
+python infomap_sims.py --noise_level 0.30 --label 7d60e6bf
+python infomap_sims.py --noise_level 0.30 --label 473d4cf0
+python infomap_sims.py --noise_level 0.30 --label 9b13bb71
+python infomap_sims.py --noise_level 0.30 --label 67b0f8bf
+python infomap_sims.py --noise_level 0.30 --label 9fdc9eee
+python infomap_sims.py --noise_level 0.30 --label a936f2fc
+python infomap_sims.py --noise_level 0.30 --label 23b220b0
+python infomap_sims.py --noise_level 0.30 --label d83c191c
+python infomap_sims.py --noise_level 0.30 --label c6ed0cd7
+python infomap_sims.py --noise_level 0.30 --label 17d2d0b0
+python infomap_sims.py --noise_level 0.30 --label 2b791946
+python infomap_sims.py --noise_level 0.30 --label f3acd7c8
+python infomap_sims.py --noise_level 0.30 --label fc466a08
+python infomap_sims.py --noise_level 0.30 --label 40b473a5
+python infomap_sims.py --noise_level 0.30 --label 1d9ceab3
+python infomap_sims.py --noise_level 0.30 --label bb87d17e
+python infomap_sims.py --noise_level 0.30 --label 52def5ba
+python infomap_sims.py --noise_level 0.30 --label 94eecc72
+python infomap_sims.py --noise_level 0.30 --label 566c37e0
+python infomap_sims.py --noise_level 0.30 --label 4ea8c116
+python infomap_sims.py --noise_level 0.30 --label d8593a1c
+python infomap_sims.py --noise_level 0.30 --label 2e816e6e
+python infomap_sims.py --noise_level 0.30 --label 222088ef
+python infomap_sims.py --noise_level 0.30 --label b58b1853
+python infomap_sims.py --noise_level 0.30 --label 941142cd
+python infomap_sims.py --noise_level 0.30 --label b1c1c6a4
+python infomap_sims.py --noise_level 0.30 --label 5d7eb9cf
+python infomap_sims.py --noise_level 0.30 --label 2f119621
+python infomap_sims.py --noise_level 0.30 --label eaa34cb0
+python infomap_sims.py --noise_level 0.30 --label e04602ec
+python infomap_sims.py --noise_level 0.30 --label ced70976
+python infomap_sims.py --noise_level 0.30 --label 547cae34
+python infomap_sims.py --noise_level 0.30 --label 7a5b03a9
+python infomap_sims.py --noise_level 0.30 --label 712c0392
+python infomap_sims.py --noise_level 0.30 --label a7759707
+python infomap_sims.py --noise_level 0.30 --label 94b8bad9
+python infomap_sims.py --noise_level 0.30 --label 238f0248
+python infomap_sims.py --noise_level 0.30 --label b9e3f1b7
+python infomap_sims.py --noise_level 0.30 --label 96229b79
+python infomap_sims.py --noise_level 0.30 --label 4943962e
+python infomap_sims.py --noise_level 0.30 --label 182cc27f
+python infomap_sims.py --noise_level 0.30 --label be196fc9
+python infomap_sims.py --noise_level 0.30 --label 00f6be16
+python infomap_sims.py --noise_level 0.30 --label b3e6fbd3
+python infomap_sims.py --noise_level 0.30 --label acfe1c9a
+python infomap_sims.py --noise_level 0.30 --label c458f69c
+python infomap_sims.py --noise_level 0.30 --label 159c07de
+python infomap_sims.py --noise_level 0.30 --label eb6c7029
+python infomap_sims.py --noise_level 0.30 --label e572ceff
+python infomap_sims.py --noise_level 0.30 --label 20f238e0
+python infomap_sims.py --noise_level 0.30 --label a8ee2996
+python infomap_sims.py --noise_level 0.30 --label 57439397
+python infomap_sims.py --noise_level 0.30 --label ff37f224
+python infomap_sims.py --noise_level 0.30 --label 2b9b2fb7
+python infomap_sims.py --noise_level 0.30 --label 31ee151e
+python infomap_sims.py --noise_level 0.30 --label d94d77ee
+python infomap_sims.py --noise_level 0.30 --label 230c1ee0
+python infomap_sims.py --noise_level 0.30 --label 10da6f8c
+python infomap_sims.py --noise_level 0.30 --label 5cbb066d
+python infomap_sims.py --noise_level 0.30 --label 1f9e7e28
+python infomap_sims.py --noise_level 0.30 --label 4c5c2d71
+python infomap_sims.py --noise_level 0.30 --label 53b9f067
+python infomap_sims.py --noise_level 0.30 --label d7d7c39d
+python infomap_sims.py --noise_level 0.30 --label d5a8b1bf
+python infomap_sims.py --noise_level 0.30 --label fe642d38
+python infomap_sims.py --noise_level 0.30 --label eb0f32fe
+python infomap_sims.py --noise_level 0.30 --label 44be844d
+python infomap_sims.py --noise_level 0.30 --label 9df21827
+python infomap_sims.py --noise_level 0.30 --label da90c0da
+python infomap_sims.py --noise_level 0.35 --label a22f5f5b
+python infomap_sims.py --noise_level 0.35 --label 59b6e255
+python infomap_sims.py --noise_level 0.35 --label 774135eb
+python infomap_sims.py --noise_level 0.35 --label 500e3cc0
+python infomap_sims.py --noise_level 0.35 --label c3bb6a8d
+python infomap_sims.py --noise_level 0.35 --label 007bb882
+python infomap_sims.py --noise_level 0.35 --label 5d18d336
+python infomap_sims.py --noise_level 0.35 --label c9539404
+python infomap_sims.py --noise_level 0.35 --label 11effa58
+python infomap_sims.py --noise_level 0.35 --label 62b1d4fe
+python infomap_sims.py --noise_level 0.35 --label ba33f160
+python infomap_sims.py --noise_level 0.35 --label 4a4d6149
+python infomap_sims.py --noise_level 0.35 --label a69bac1d
+python infomap_sims.py --noise_level 0.35 --label 57b4e44a
+python infomap_sims.py --noise_level 0.35 --label 65e7e418
+python infomap_sims.py --noise_level 0.35 --label 9abfa582
+python infomap_sims.py --noise_level 0.35 --label a6ecf62d
+python infomap_sims.py --noise_level 0.35 --label 03197e4a
+python infomap_sims.py --noise_level 0.35 --label ea583ac9
+python infomap_sims.py --noise_level 0.35 --label b30c764f
+python infomap_sims.py --noise_level 0.35 --label 292ac54d
+python infomap_sims.py --noise_level 0.35 --label c6ab746c
+python infomap_sims.py --noise_level 0.35 --label d935a185
+python infomap_sims.py --noise_level 0.35 --label 6c6db9ca
+python infomap_sims.py --noise_level 0.35 --label ffa83d09
+python infomap_sims.py --noise_level 0.35 --label 95716871
+python infomap_sims.py --noise_level 0.35 --label 152d0ee2
+python infomap_sims.py --noise_level 0.35 --label 269d0cb8
+python infomap_sims.py --noise_level 0.35 --label c839cead
+python infomap_sims.py --noise_level 0.35 --label 2a40f7a5
+python infomap_sims.py --noise_level 0.35 --label 0a325dbd
+python infomap_sims.py --noise_level 0.35 --label 37481fc2
+python infomap_sims.py --noise_level 0.35 --label 0257edf2
+python infomap_sims.py --noise_level 0.35 --label ec5558fd
+python infomap_sims.py --noise_level 0.35 --label bb816f06
+python infomap_sims.py --noise_level 0.35 --label 890880ce
+python infomap_sims.py --noise_level 0.35 --label 1e534efa
+python infomap_sims.py --noise_level 0.35 --label 9e78cb75
+python infomap_sims.py --noise_level 0.35 --label 0e53cd16
+python infomap_sims.py --noise_level 0.35 --label 969c5d0c
+python infomap_sims.py --noise_level 0.35 --label 15840f81
+python infomap_sims.py --noise_level 0.35 --label cd17fbc4
+python infomap_sims.py --noise_level 0.35 --label b062a95a
+python infomap_sims.py --noise_level 0.35 --label 7a3576d8
+python infomap_sims.py --noise_level 0.35 --label 3ba94c7d
+python infomap_sims.py --noise_level 0.35 --label a9deea0c
+python infomap_sims.py --noise_level 0.35 --label f723bf9b
+python infomap_sims.py --noise_level 0.35 --label 5868eaf2
+python infomap_sims.py --noise_level 0.35 --label f593e0e2
+python infomap_sims.py --noise_level 0.35 --label 393aaa5c
+python infomap_sims.py --noise_level 0.35 --label fa322804
+python infomap_sims.py --noise_level 0.35 --label 128dd697
+python infomap_sims.py --noise_level 0.35 --label 66f95fad
+python infomap_sims.py --noise_level 0.35 --label 911eaaac
+python infomap_sims.py --noise_level 0.35 --label e1b79fef
+python infomap_sims.py --noise_level 0.35 --label e8ff4bc5
+python infomap_sims.py --noise_level 0.35 --label 9f4e402d
+python infomap_sims.py --noise_level 0.35 --label 609abe7c
+python infomap_sims.py --noise_level 0.35 --label 5875aac9
+python infomap_sims.py --noise_level 0.35 --label 85589139
+python infomap_sims.py --noise_level 0.35 --label d3e55932
+python infomap_sims.py --noise_level 0.35 --label 258d9eb5
+python infomap_sims.py --noise_level 0.35 --label ec376c59
+python infomap_sims.py --noise_level 0.35 --label 416078ab
+python infomap_sims.py --noise_level 0.35 --label d64e9540
+python infomap_sims.py --noise_level 0.35 --label 08af9579
+python infomap_sims.py --noise_level 0.35 --label 1b799e19
+python infomap_sims.py --noise_level 0.35 --label 86740299
+python infomap_sims.py --noise_level 0.35 --label b15f3e32
+python infomap_sims.py --noise_level 0.35 --label e98b2931
+python infomap_sims.py --noise_level 0.35 --label 58a0f4a3
+python infomap_sims.py --noise_level 0.35 --label ea6d36b8
+python infomap_sims.py --noise_level 0.35 --label a735c86b
+python infomap_sims.py --noise_level 0.35 --label d0719b3f
+python infomap_sims.py --noise_level 0.35 --label 722521fa
+python infomap_sims.py --noise_level 0.35 --label 66a2a6f1
+python infomap_sims.py --noise_level 0.35 --label 759e67b9
+python infomap_sims.py --noise_level 0.35 --label 1952e4f1
+python infomap_sims.py --noise_level 0.35 --label b3a7b19f
+python infomap_sims.py --noise_level 0.35 --label 7c858fb5
+python infomap_sims.py --noise_level 0.35 --label 32c724b9
+python infomap_sims.py --noise_level 0.35 --label 4cba13f5
+python infomap_sims.py --noise_level 0.35 --label ecb6ce0b
+python infomap_sims.py --noise_level 0.35 --label 2dd81b24
+python infomap_sims.py --noise_level 0.35 --label fdb99384
+python infomap_sims.py --noise_level 0.35 --label d8dd85bd
+python infomap_sims.py --noise_level 0.35 --label ae51d228
+python infomap_sims.py --noise_level 0.35 --label 4919fb8f
+python infomap_sims.py --noise_level 0.35 --label 3bdab335
+python infomap_sims.py --noise_level 0.35 --label 646af232
+python infomap_sims.py --noise_level 0.35 --label 337c205e
+python infomap_sims.py --noise_level 0.35 --label d63652ef
+python infomap_sims.py --noise_level 0.35 --label 74f13b3f
+python infomap_sims.py --noise_level 0.35 --label 5773c192
+python infomap_sims.py --noise_level 0.35 --label e728bb9f
+python infomap_sims.py --noise_level 0.35 --label 01b554ca
+python infomap_sims.py --noise_level 0.35 --label 1f5ee78d
+python infomap_sims.py --noise_level 0.35 --label 4ef7df12
+python infomap_sims.py --noise_level 0.35 --label 6e9fe83e
+python infomap_sims.py --noise_level 0.35 --label 0b81c175
+python infomap_sims.py --noise_level 0.40 --label 5e0290e8
+python infomap_sims.py --noise_level 0.40 --label 133e5700
+python infomap_sims.py --noise_level 0.40 --label 1946f00f
+python infomap_sims.py --noise_level 0.40 --label 91a2f57c
+python infomap_sims.py --noise_level 0.40 --label cd60aa5b
+python infomap_sims.py --noise_level 0.40 --label 1e80e6c6
+python infomap_sims.py --noise_level 0.40 --label 06c05692
+python infomap_sims.py --noise_level 0.40 --label 29265440
+python infomap_sims.py --noise_level 0.40 --label 2cb4b997
+python infomap_sims.py --noise_level 0.40 --label e0c91d3b
+python infomap_sims.py --noise_level 0.40 --label ddfdbddc
+python infomap_sims.py --noise_level 0.40 --label 82d9a427
+python infomap_sims.py --noise_level 0.40 --label 06dddb53
+python infomap_sims.py --noise_level 0.40 --label 6d5c17fa
+python infomap_sims.py --noise_level 0.40 --label ffd617fc
+python infomap_sims.py --noise_level 0.40 --label 0c5529c9
+python infomap_sims.py --noise_level 0.40 --label efa19b7b
+python infomap_sims.py --noise_level 0.40 --label 65851a49
+python infomap_sims.py --noise_level 0.40 --label 4dd85bce
+python infomap_sims.py --noise_level 0.40 --label 9e1862d9
+python infomap_sims.py --noise_level 0.40 --label 1da07945
+python infomap_sims.py --noise_level 0.40 --label 207d50cb
+python infomap_sims.py --noise_level 0.40 --label 4587156e
+python infomap_sims.py --noise_level 0.40 --label bf694d2e
+python infomap_sims.py --noise_level 0.40 --label d5b59968
+python infomap_sims.py --noise_level 0.40 --label 85af1484
+python infomap_sims.py --noise_level 0.40 --label 21b94d94
+python infomap_sims.py --noise_level 0.40 --label 36c7c6fc
+python infomap_sims.py --noise_level 0.40 --label 82adc9a5
+python infomap_sims.py --noise_level 0.40 --label b3d451a4
+python infomap_sims.py --noise_level 0.40 --label 6b8050d1
+python infomap_sims.py --noise_level 0.40 --label 3da4fedb
+python infomap_sims.py --noise_level 0.40 --label bc6e93a5
+python infomap_sims.py --noise_level 0.40 --label 70e4ee48
+python infomap_sims.py --noise_level 0.40 --label 3373f9c0
+python infomap_sims.py --noise_level 0.40 --label 257e17cc
+python infomap_sims.py --noise_level 0.40 --label 74cdaf4c
+python infomap_sims.py --noise_level 0.40 --label 92f58b09
+python infomap_sims.py --noise_level 0.40 --label 68ee1014
+python infomap_sims.py --noise_level 0.40 --label 55162fb0
+python infomap_sims.py --noise_level 0.40 --label ac5f3992
+python infomap_sims.py --noise_level 0.40 --label e1786a5d
+python infomap_sims.py --noise_level 0.40 --label 44648730
+python infomap_sims.py --noise_level 0.40 --label c5ba6c29
+python infomap_sims.py --noise_level 0.40 --label cbb5c99a
+python infomap_sims.py --noise_level 0.40 --label 4c203f46
+python infomap_sims.py --noise_level 0.40 --label 22401ba5
+python infomap_sims.py --noise_level 0.40 --label 2308c131
+python infomap_sims.py --noise_level 0.40 --label 456e85e6
+python infomap_sims.py --noise_level 0.40 --label fa46e457
+python infomap_sims.py --noise_level 0.40 --label 29039552
+python infomap_sims.py --noise_level 0.40 --label d8912512
+python infomap_sims.py --noise_level 0.40 --label d876a00c
+python infomap_sims.py --noise_level 0.40 --label 2ef7bd72
+python infomap_sims.py --noise_level 0.40 --label 565a9503
+python infomap_sims.py --noise_level 0.40 --label 2f210505
+python infomap_sims.py --noise_level 0.40 --label 69a8e3ab
+python infomap_sims.py --noise_level 0.40 --label d6cb5fda
+python infomap_sims.py --noise_level 0.40 --label 6f3eeb7a
+python infomap_sims.py --noise_level 0.40 --label 3c292358
+python infomap_sims.py --noise_level 0.40 --label 1b20e372
+python infomap_sims.py --noise_level 0.40 --label 6b574af6
+python infomap_sims.py --noise_level 0.40 --label 595b283e
+python infomap_sims.py --noise_level 0.40 --label cb55dbb9
+python infomap_sims.py --noise_level 0.40 --label 90a034db
+python infomap_sims.py --noise_level 0.40 --label 5cb2d5fa
+python infomap_sims.py --noise_level 0.40 --label b11edc70
+python infomap_sims.py --noise_level 0.40 --label b8f149e9
+python infomap_sims.py --noise_level 0.40 --label c20650da
+python infomap_sims.py --noise_level 0.40 --label 584c8fbd
+python infomap_sims.py --noise_level 0.40 --label 2dc727a3
+python infomap_sims.py --noise_level 0.40 --label 3c5367bf
+python infomap_sims.py --noise_level 0.40 --label 1a50f3d6
+python infomap_sims.py --noise_level 0.40 --label 8bd62ceb
+python infomap_sims.py --noise_level 0.40 --label 32576fd6
+python infomap_sims.py --noise_level 0.40 --label d4fd501c
+python infomap_sims.py --noise_level 0.40 --label b1cd9866
+python infomap_sims.py --noise_level 0.40 --label 0a6ff442
+python infomap_sims.py --noise_level 0.40 --label e6504600
+python infomap_sims.py --noise_level 0.40 --label 894b3980
+python infomap_sims.py --noise_level 0.40 --label 5a47eba2
+python infomap_sims.py --noise_level 0.40 --label b6ddb53a
+python infomap_sims.py --noise_level 0.40 --label 4094c935
+python infomap_sims.py --noise_level 0.40 --label 0c3fdcc0
+python infomap_sims.py --noise_level 0.40 --label 9527ba6e
+python infomap_sims.py --noise_level 0.40 --label 9b185feb
+python infomap_sims.py --noise_level 0.40 --label 53f7ecbb
+python infomap_sims.py --noise_level 0.40 --label 6b9aebc3
+python infomap_sims.py --noise_level 0.40 --label 0afdf0c2
+python infomap_sims.py --noise_level 0.40 --label 88c74870
+python infomap_sims.py --noise_level 0.40 --label 8941e3a8
+python infomap_sims.py --noise_level 0.40 --label 796e4ef8
+python infomap_sims.py --noise_level 0.40 --label cabaf3dc
+python infomap_sims.py --noise_level 0.40 --label b8e1d750
+python infomap_sims.py --noise_level 0.40 --label 9af0a085
+python infomap_sims.py --noise_level 0.40 --label a8b6643b
+python infomap_sims.py --noise_level 0.40 --label 91a95a97
+python infomap_sims.py --noise_level 0.40 --label 0f27e909
+python infomap_sims.py --noise_level 0.40 --label 52b82ea7
+python infomap_sims.py --noise_level 0.40 --label 81be8a8d
+python infomap_sims.py --noise_level 0.45 --label 1baa3c90
+python infomap_sims.py --noise_level 0.45 --label d92d52cf
+python infomap_sims.py --noise_level 0.45 --label 1165de3c
+python infomap_sims.py --noise_level 0.45 --label 68d128db
+python infomap_sims.py --noise_level 0.45 --label 4fc173bb
+python infomap_sims.py --noise_level 0.45 --label 0f55943b
+python infomap_sims.py --noise_level 0.45 --label 095a50be
+python infomap_sims.py --noise_level 0.45 --label e415b41c
+python infomap_sims.py --noise_level 0.45 --label e8cd8217
+python infomap_sims.py --noise_level 0.45 --label 3f506812
+python infomap_sims.py --noise_level 0.45 --label cba72442
+python infomap_sims.py --noise_level 0.45 --label 876d1704
+python infomap_sims.py --noise_level 0.45 --label fb5ab76d
+python infomap_sims.py --noise_level 0.45 --label 54eaef83
+python infomap_sims.py --noise_level 0.45 --label 12dee2fb
+python infomap_sims.py --noise_level 0.45 --label 70d708c4
+python infomap_sims.py --noise_level 0.45 --label ca60be84
+python infomap_sims.py --noise_level 0.45 --label c1df389e
+python infomap_sims.py --noise_level 0.45 --label b0e85edb
+python infomap_sims.py --noise_level 0.45 --label b90281ce
+python infomap_sims.py --noise_level 0.45 --label 1270a148
+python infomap_sims.py --noise_level 0.45 --label 692e13db
+python infomap_sims.py --noise_level 0.45 --label 9940888f
+python infomap_sims.py --noise_level 0.45 --label 67b81586
+python infomap_sims.py --noise_level 0.45 --label 383b8f7b
+python infomap_sims.py --noise_level 0.45 --label 91e1ef54
+python infomap_sims.py --noise_level 0.45 --label 87a44a47
+python infomap_sims.py --noise_level 0.45 --label 0bdbfea8
+python infomap_sims.py --noise_level 0.45 --label 8007d8f6
+python infomap_sims.py --noise_level 0.45 --label 35e9fd18
+python infomap_sims.py --noise_level 0.45 --label 42e66e66
+python infomap_sims.py --noise_level 0.45 --label 5a342d14
+python infomap_sims.py --noise_level 0.45 --label 19cbb947
+python infomap_sims.py --noise_level 0.45 --label d20576cd
+python infomap_sims.py --noise_level 0.45 --label cda615c1
+python infomap_sims.py --noise_level 0.45 --label 88faf04f
+python infomap_sims.py --noise_level 0.45 --label d328b524
+python infomap_sims.py --noise_level 0.45 --label a1fe0448
+python infomap_sims.py --noise_level 0.45 --label 7d2ff17c
+python infomap_sims.py --noise_level 0.45 --label db93d14b
+python infomap_sims.py --noise_level 0.45 --label 0eacf4fd
+python infomap_sims.py --noise_level 0.45 --label edb26663
+python infomap_sims.py --noise_level 0.45 --label b310d4e4
+python infomap_sims.py --noise_level 0.45 --label 70b98b7c
+python infomap_sims.py --noise_level 0.45 --label 66469cb4
+python infomap_sims.py --noise_level 0.45 --label 0b4afa66
+python infomap_sims.py --noise_level 0.45 --label 96ed804d
+python infomap_sims.py --noise_level 0.45 --label 6bc29865
+python infomap_sims.py --noise_level 0.45 --label 90b8201e
+python infomap_sims.py --noise_level 0.45 --label 8f0e2abb
+python infomap_sims.py --noise_level 0.45 --label 248d0c7f
+python infomap_sims.py --noise_level 0.45 --label 87b65015
+python infomap_sims.py --noise_level 0.45 --label ed8116cc
+python infomap_sims.py --noise_level 0.45 --label 0ee6f265
+python infomap_sims.py --noise_level 0.45 --label c31a2933
+python infomap_sims.py --noise_level 0.45 --label 01a162c3
+python infomap_sims.py --noise_level 0.45 --label c099ef91
+python infomap_sims.py --noise_level 0.45 --label 6ed51911
+python infomap_sims.py --noise_level 0.45 --label 389b9b32
+python infomap_sims.py --noise_level 0.45 --label a2753d67
+python infomap_sims.py --noise_level 0.45 --label 2fa869fc
+python infomap_sims.py --noise_level 0.45 --label 368367b9
+python infomap_sims.py --noise_level 0.45 --label 792e3ff9
+python infomap_sims.py --noise_level 0.45 --label b40da84a
+python infomap_sims.py --noise_level 0.45 --label 278b3e87
+python infomap_sims.py --noise_level 0.45 --label 30d5b625
+python infomap_sims.py --noise_level 0.45 --label c185d6a4
+python infomap_sims.py --noise_level 0.45 --label 0510ebb0
+python infomap_sims.py --noise_level 0.45 --label cdcaa756
+python infomap_sims.py --noise_level 0.45 --label 7e4722bb
+python infomap_sims.py --noise_level 0.45 --label 638ed7bc
+python infomap_sims.py --noise_level 0.45 --label 59c32c5d
+python infomap_sims.py --noise_level 0.45 --label 36840cde
+python infomap_sims.py --noise_level 0.45 --label d75043ff
+python infomap_sims.py --noise_level 0.45 --label 6e3524a0
+python infomap_sims.py --noise_level 0.45 --label 08e716e7
+python infomap_sims.py --noise_level 0.45 --label 9731ab8b
+python infomap_sims.py --noise_level 0.45 --label 433507c1
+python infomap_sims.py --noise_level 0.45 --label 832d1d28
+python infomap_sims.py --noise_level 0.45 --label 45a065d1
+python infomap_sims.py --noise_level 0.45 --label 2e283703
+python infomap_sims.py --noise_level 0.45 --label bcd84b19
+python infomap_sims.py --noise_level 0.45 --label fa6c5ae6
+python infomap_sims.py --noise_level 0.45 --label 24e79386
+python infomap_sims.py --noise_level 0.45 --label 958d0b0c
+python infomap_sims.py --noise_level 0.45 --label b303b0da
+python infomap_sims.py --noise_level 0.45 --label 37ead9fc
+python infomap_sims.py --noise_level 0.45 --label 5bd3a681
+python infomap_sims.py --noise_level 0.45 --label c133b8b6
+python infomap_sims.py --noise_level 0.45 --label 54289378
+python infomap_sims.py --noise_level 0.45 --label d8f060ff
+python infomap_sims.py --noise_level 0.45 --label 1dcfc6b7
+python infomap_sims.py --noise_level 0.45 --label ff7e6ef1
+python infomap_sims.py --noise_level 0.45 --label 4359abe8
+python infomap_sims.py --noise_level 0.45 --label 7d7054be
+python infomap_sims.py --noise_level 0.45 --label 0dbb1391
+python infomap_sims.py --noise_level 0.45 --label 0f4aea25
+python infomap_sims.py --noise_level 0.45 --label c0272646
+python infomap_sims.py --noise_level 0.45 --label f788bbc0
+python infomap_sims.py --noise_level 0.45 --label 1c3515c5
