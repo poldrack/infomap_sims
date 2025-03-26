@@ -84,16 +84,7 @@ def get_match_pairs(matching_matrix, thresh=0.99):
         (int(i), int(j)) for i, j in zip(match_pairs[0], match_pairs[1]) if i != j
     ]
     return match_pairs_clean
-
-
-# from Daniel Edler:
-# https://github.com/mapequation/poldrack/blob/main/Poldrack%20infomap_sims%20analysis.ipynb
-def normalize_confusion_matrix(cm, module_sizes):
-        norm = np.ones(cm.shape[0])
-        for i, m in enumerate(module_sizes):
-            norm[i] = m
-        return cm / np.outer(norm, np.ones(norm.shape))
-
+    
 
 def run_infomap(G, fcpriors, verbose=False, normalize=False):
     im = Infomap(silent=True)
@@ -140,7 +131,7 @@ if __name__ == "__main__":
 #    parser.add_argument("--size_ratio", type=int, default=2, help="Size ratio for the priors")
     parser.add_argument("--sizelimit", type=int, default=29696, help="Size ratio for the priors")
     parser.add_argument('--noise_level', type=float, default=0.1, help='Noise level for the simulation')
-    parser.add_argument('--density', type=float, default=0.05, help='Density of the graph')
+    parser.add_argument('--density', type=float, default=0.002, help='Density of the graph')
     parser.add_argument('--label', type=str, default=None, help='Label for the simulation')
     parser.add_argument('--normalize', action='store_true', help='Normalize confusion matrix')
     args = parser.parse_args()
@@ -175,7 +166,7 @@ if __name__ == "__main__":
     matching_matrix_noisy = create_noisy_matching_matrix(
         matching_matrix_z, noise_level=args.noise_level
     )
-    G = matching_matrix_to_graph(matching_matrix_noisy, density=0.05)
+    G = matching_matrix_to_graph(matching_matrix_noisy, density=args.density)
     module_list, module_list_relabeled = run_infomap(
         G, 
         fcpriors, 
@@ -200,7 +191,7 @@ if __name__ == "__main__":
         normalize_str = '_normalized'
     else:
         normalize_str = ''
-    outdir = f'sim_results_sizelimit-{args.sizelimit:d}{normalize_str}'
+    outdir = f'sim_results_density-{args.density}_sizelimit-{args.sizelimit:d}{normalize_str}'
     if not os.path.exists(outdir):
         os.makedirs(outdir)
 
