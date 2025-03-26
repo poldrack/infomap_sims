@@ -84,7 +84,7 @@ def get_match_pairs(matching_matrix, thresh=0.99):
         (int(i), int(j)) for i, j in zip(match_pairs[0], match_pairs[1]) if i != j
     ]
     return match_pairs_clean
-    
+
 
 def run_infomap(G, fcpriors, verbose=False, normalize=False):
     im = Infomap(silent=True)
@@ -97,7 +97,7 @@ def run_infomap(G, fcpriors, verbose=False, normalize=False):
     module_id_dict = {node.node_id: node.module_id for node in im.tree if node.is_leaf}
     module_list = np.array([module_id_dict[i] for i in range(fcpriors.shape[0])])
     true_labels = get_maxprob_labels(fcpriors)
-    cm = confusion_matrix(true_labels, module_list, normalize=normalize)
+    cm = confusion_matrix(true_labels, module_list, normalize='true' if normalize else None)
 
     # relabel modules to match true labels
     cm_argmax = cm.argmax(axis=0)
